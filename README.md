@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-**izeddweb/izeddweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I am abdeltif zeddini, people call me Ab,  I am a front-end & an youtuber Feel free to connect with me here:
 
 
 - 🔭 I’m currently working on ...
@@ -14,13 +14,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Fancy seeing you here! <img src="https://github.com/izeddweb)i/master/wave.gif" width="30">
 
-I am abdeltif zeddini, people call me Ab,  I am a front-end & an youtuber Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
 
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+[![Linkedin Badge](https://img.shields.io/badge/-izeddweb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+
+[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)]([https://www.youtube.com/c/koolkanna](https://www.youtube.com/channel/UCYTbzkgzwbpwvZbcIX0WVDw))
 [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
 [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
