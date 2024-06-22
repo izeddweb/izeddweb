@@ -29,7 +29,6 @@ I am abdeltif zeddini, people call me Ab,  I am a front-end & an youtuber Feel f
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Adobe](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -41,10 +40,10 @@ I am abdeltif zeddini, people call me Ab,  I am a front-end & an youtuber Feel f
 
 ## Features Technologies 
 
-![Node.js](https://img.shields.io/badge/Node.js-14.x-green?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/React-17.x-blue?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Sass](https://img.shields.io/badge/Sass-1.x-pink?style=flat-square&logo=sass)
+![Sass](https://img.shields.io/badge/Sass-pink?style=flat-square&logo=sass)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
