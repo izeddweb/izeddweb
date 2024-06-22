@@ -18,7 +18,7 @@ I am abdeltif zeddini, people call me Ab,  I am a front-end & an youtuber Feel f
 
 
 
-[![Linkedin Badge](www.linkedin.com/in/abdeltif-zeddini-635327229)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdeltif_Zeddini-blue)](https://www.linkedin.com/in/abdeltif-zeddini-635327229/)
 
 <!--
 [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)]([https://www.youtube.com/c/koolkanna](https://www.youtube.com/channel/UCYTbzkgzwbpwvZbcIX0WVDw))
