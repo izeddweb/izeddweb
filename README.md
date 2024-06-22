@@ -20,6 +20,7 @@ I am abdeltif zeddini, people call me Ab,  I am a front-end & an youtuber Feel f
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdeltif_Zeddini-blue)](https://www.linkedin.com/in/abdeltif-zeddini-635327229/)
 
+
 <!--
 [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)]([https://www.youtube.com/c/koolkanna](https://www.youtube.com/channel/UCYTbzkgzwbpwvZbcIX0WVDw))
 [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
@@ -35,6 +36,13 @@ I am abdeltif zeddini, people call me Ab,  I am a front-end & an youtuber Feel f
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+## Features Technologies 
+
+![Node.js](https://img.shields.io/badge/Node.js-14.x-green?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/React-17.x-blue?style=flat-square&logo=react)
+![Sass](https://img.shields.io/badge/Sass-1.x-pink?style=flat-square&logo=sass)
+
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
