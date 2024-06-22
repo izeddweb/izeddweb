@@ -20,7 +20,6 @@ I am abdeltif zeddini, people call me Ab,  I am a front-end & an youtuber Feel f
 
 [![Linkedin Badge](www.linkedin.com/in/abdeltif-zeddini-635327229
 
-)]([(https://www.linkedin.com/in/abdeltif-zeddini-635327229/))
 <!--
 [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)]([https://www.youtube.com/c/koolkanna](https://www.youtube.com/channel/UCYTbzkgzwbpwvZbcIX0WVDw))
 [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
